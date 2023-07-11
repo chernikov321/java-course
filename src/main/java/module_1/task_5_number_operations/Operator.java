@@ -6,7 +6,7 @@ public class Operator {
         return 0;
     }
 
-    public long divide(long a, long b) throws Throwable {
+    public long divide(long a, long b) {
         return 0;
     }
 

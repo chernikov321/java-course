@@ -19,7 +19,7 @@ public class OperatorTest {
         Assertions.assertEquals(-81, operator.multiply(-9, 9));
     }
     @Test
-    public void testDivide() throws Throwable {
+    public void testDivide() {
         Assertions.assertEquals(10, operator.divide(100, 10));
         Assertions.assertEquals(-10, operator.divide(100, -10));
 
