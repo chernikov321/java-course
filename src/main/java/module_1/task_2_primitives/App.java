@@ -14,10 +14,10 @@ public class App {
     public static void main(String[] args) {
 //        Java has 8 primitive types
 //        4 types for number variables (without decimal places)
-        byte b = 1;
-        short s = 2;
-        int i = 3;
-        long l = 4;
+        byte b = 1; //max value: 127
+        short s = 2; //max value: 32,767
+        int i = 3; //max value: 2,147,483,647
+        long l = 4; //max value: 9,223,372,036,854,775,807
 //        2 types for number variables with decimal places
         float f = 3.14f;
         double d = 3.14d;
