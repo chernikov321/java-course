@@ -7,6 +7,5 @@ public class App {
 //        / - dividing (35 / 7 = 5)
 //        - - subtracting (35 - 7 = 28)
 //        + - sum (5 + 7 = 12)
-        System.out.println(100 / -10);
     }
 }
